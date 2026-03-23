@@ -4,7 +4,11 @@
 <br>
 
 # 💫 About Me:
-A second-year student with an interest in music and art.
+<h1 align="center">Nguyễn Quỳnh Anh 🍋</h1>
+
+<p align="center">
+  A second-year International Business student who enjoys drawing
+</p>
 
 
 ## 🌐 Socials:
