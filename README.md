@@ -36,10 +36,16 @@ A second-year student with an interest in music and art.
 
 ---
 
-### 🎀 Random stuff in trying to draw on computer
+### 🎀 Ideas
 <p align="center">
   <a href="./meettheartist.png">
     <img src="./meettheartist.png" width="250"/>
+  </a>
+  <a href="./idea.png">
+    <img src="./idea.png" width="250"/>
+  </a>
+  <a href="./vin.png">
+    <img src="./vin.png" width="250"/>
   </a>
 </p>
 ---
