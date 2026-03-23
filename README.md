@@ -48,6 +48,5 @@ A second-year student with an interest in music and art.
     <img src="./vin.jpg" width="250"/>
   </a>
 </p>
----
 
 
