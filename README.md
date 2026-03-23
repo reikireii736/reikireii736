@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-Át tít vui vẻ ngày ngày đi học, cày cuốc lụm lúa go brr brr brr
+A second-year student with an interest in music and art.
 
 
 ## 🌐 Socials:
@@ -43,6 +43,5 @@
   </a>
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=reikireii736&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
