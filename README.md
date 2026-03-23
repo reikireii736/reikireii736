@@ -1,4 +1,4 @@
-<img width="1370" height="786" alt="image" src="https://github.com/user-attachments/assets/88ce679c-8d1c-49a2-bd49-feec92be1cd8" /><p align="center">
+
   <img src="./bìa-đầu.png"/>
 </p>
 <br>
