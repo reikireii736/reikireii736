@@ -44,8 +44,8 @@ A second-year student with an interest in music and art.
   <a href="./idea.png">
     <img src="./idea.png" width="250"/>
   </a>
-  <a href="./vin.jpg">
-    <img src="./vin.jpg" width="250"/>
+  <a href="./ocfille.jpg">
+    <img src="./ocfille.jpg" width="250"/>
   </a>
 </p>
 
