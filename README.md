@@ -26,8 +26,8 @@
   <a href="./IDEA1DRCPITCHING.png">
     <img src="./IDEA1DRCPITCHING.png" width="250"/>
   </a>
-  <a href="./Tò he final.png">
-    <img src="./Tò he final.png" width="250"/>
+  <a href="./to-he.png">
+    <img src="./to-he.png" width="250"/>
     
   ## And some random stuff I just draw for fun :Đ
   </a>
