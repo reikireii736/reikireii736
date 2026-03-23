@@ -4,11 +4,10 @@
 <br>
 
 # 💫 About Me:
-<h1 align="center">Nguyễn Quỳnh Anh 🍋</h1>
-
-<p align="center">
-  A second-year International Business student who enjoys drawing
-</p>
+- **Name:** Nguyễn Quỳnh Anh  
+- **Major:** International Business  
+- **University:** Foreign Trade University  
+- **Year:** Second-year student
 
 
 ## 🌐 Socials:
