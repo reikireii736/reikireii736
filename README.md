@@ -13,16 +13,23 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
-## 🎨 My Digital Artwork
+## **🎨 My Digital Artwork**
+## My very first finished digital piece
 <p align="center">
-    <a href="./Screenshot 2025-09-13 223039.png">
-    <img src="./Screenshot 2025-09-13 223039.png" width="250"/>
-  </a>
+    <a href="./BÀITHIFTU.png">
+    <img src="./BÀITHIFTU.png" width="250
+      
+## Artworks used for applying DRC 
+
+<p align="center">
+
   <a href="./IDEA1DRCPITCHING.png">
     <img src="./IDEA1DRCPITCHING.png" width="250"/>
   </a>
   <a href="./Tò he final.png">
     <img src="./Tò he final.png" width="250"/>
+    
+  ## And some random stuff I just draw for fun :Đ
   </a>
   <a href="./meettheartist.png">
     <img src="./meettheartist.png" width="250"/>
