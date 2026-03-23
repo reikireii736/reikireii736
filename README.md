@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./bìa-đầu.png"/>
+</p>
+<br>
+
 # 💫 About Me:
 Át tít vui vẻ ngày ngày đi học và lụm lúa
 
