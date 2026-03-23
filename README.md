@@ -16,6 +16,7 @@ A second-year student with an interest in music and art.
 ## 🎨 My Digital Artwork
 
 ### 🌼 My first completed digital artwork
+My first completed digital artwork, created for the 65th anniversary competition of my university, where it received an award in the Art category. Please excuse the slightly awkward composition — I was still figuring things out at the time ^^
 <p align="center">
   <a href="./65.png">
     <img src="./65.png" width="350"/>
@@ -25,6 +26,7 @@ A second-year student with an interest in music and art.
 ---
 
 ### ✨ Continuing my digital art journey
+My second and third completed digital pieces, created as part of my application for the university’s Art Club. Thankfully, they worked — I’m now a member of the club’s Professional Department thanks to these works.
 <p align="center">
   <a href="./IDEA1DRCPITCHING.png">
     <img src="./IDEA1DRCPITCHING.png" width="250"/>
@@ -37,6 +39,7 @@ A second-year student with an interest in music and art.
 ---
 
 ### 🎀 Ideas
+A collection of random pieces across different styles and ideas. I’m still learning, experimenting, and trying to make my art a little more “pleasant to look at” each time.
 <p align="center">
   <a href="./meettheartist.png">
     <img src="./meettheartist.png" width="250"/>
