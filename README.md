@@ -13,24 +13,35 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
-## **🎨 My Digital Artwork**
+## 🎨 My Digital Artwork
+
+### 🌼 My first completed digital artwork
 <p align="center">
-    <a href="./65.png">
-    <img src="./65.png" width="250
-  </a>    
+  <a href="./65.png">
+    <img src="./65.png" width="350"/>
+  </a>
+</p>
+
+---
+
+### ✨ Continuing my digital art journey
+<p align="center">
   <a href="./IDEA1DRCPITCHING.png">
     <img src="./IDEA1DRCPITCHING.png" width="250"/>
   </a>
   <a href="./to-he.png">
     <img src="./to-he.png" width="250"/>
-    
-  ## And some random stuff I just draw for fun :Đ
   </a>
+</p>
+
+---
+
+### 🎀 Random stuff in trying to draw on computer
+<p align="center">
   <a href="./meettheartist.png">
     <img src="./meettheartist.png" width="250"/>
   </a>
 </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=reikireii736&icon=0&color=0)](https://visitcount.itsvg.in)
 
