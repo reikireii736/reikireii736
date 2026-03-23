@@ -1,10 +1,10 @@
-<p align="center">
+<img width="1370" height="786" alt="image" src="https://github.com/user-attachments/assets/88ce679c-8d1c-49a2-bd49-feec92be1cd8" /><p align="center">
   <img src="./bìa-đầu.png"/>
 </p>
 <br>
 
 # 💫 About Me:
-Át tít vui vẻ ngày ngày đi học và lụm lúa
+Át tít vui vẻ ngày ngày đi học, cày cuốc lụm lúa go brr brr brr
 
 
 ## 🌐 Socials:
@@ -12,6 +12,25 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+
+## 🎨 My Digital Artwork
+<p align="center">
+    <a href="./Screenshot 2025-09-13 223039.png">
+    <img src="./Screenshot 2025-09-13 223039.png" width="250"/>
+  </a>
+  <a href="./IDEA1DRCPITCHING.png">
+    <img src="./IDEA1DRCPITCHING.png" width="250"/>
+  </a>
+  <a href="./Tò he final.png">
+    <img src="./Tò he final.png" width="250"/>
+  </a>
+  <a href="./meettheartist.png">
+    <img src="./meettheartist.png" width="250"/>
+  </a>
+  <a href="./tết.png">
+    <img src="./tết.png" width="250"/>
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reikireii736&icon=0&color=0)](https://visitcount.itsvg.in)
