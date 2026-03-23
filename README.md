@@ -34,9 +34,6 @@
   <a href="./meettheartist.png">
     <img src="./meettheartist.png" width="250"/>
   </a>
-  <a href="./tết.png">
-    <img src="./tết.png" width="250"/>
-  </a>
 </p>
 
 ---
