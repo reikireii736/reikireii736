@@ -6,7 +6,8 @@
 # 💫 About Me:
 - **Name:** Nguyễn Quỳnh Anh  
 - **Major:** International Business  
-- **University:** Foreign Trade University  
+- **University:** Foreign Trade University
+- **GPA:** 3.55
 - **Year:** Second-year student
 
 
